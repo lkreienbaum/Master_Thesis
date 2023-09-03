@@ -7,6 +7,6 @@ The code for the experimental and predicted values and feature importances of al
 
 Using the inhibitor based features for HSP-90 the variance thresholding (fig. 3.3) and correlation variance thresholding (fig. 3.4, fig. 3.5) was applied using the code of RF_Correlation_Variance_Thresholding.ipynb. 
 
-Furthermore, the feature selection scheme of fig. 3.6 was applied to the inhibitor based features (table 3.1) and the protein-ligand complex features (table 3.7, table 3.8, table 3.9) using the code of RF_Variance_&_Feature_Importance_Selection_(150,10).ipynb.
+Furthermore, the feature selection scheme of fig. 3.6 was applied to the inhibitor based features (table 3.1) and the protein-ligand complex features (table 3.7, table 3.8, table 3.9) using the code of RF_Variance_&_Feature_Importance_Selection_(150,10).ipynb with alternating hyperparameters.
 
 All hyperparameters were calculated with the code of RF_Hyperparameter_Optimization.ipynb (fig. 3.1, section 5.1).
